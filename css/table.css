@@ -1,0 +1,71 @@
+.table-wrapper {
+    width: 100%;
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    white-space: nowrap;
+}
+
+#studentTable {
+    min-width: 1200px;
+}
+
+th,
+td {
+    padding: 12px 14px;
+    border-bottom: 1px solid #e5eaf0;
+    text-align: center;
+    font-size: 13px;
+}
+
+th {
+    background: #edf3fa;
+    color: #294767;
+    font-weight: 600;
+}
+
+tbody tr:hover {
+    background: #f8fafc;
+}
+
+td.student-name {
+    text-align: left;
+    font-weight: 600;
+}
+
+.average-score {
+    font-weight: 700;
+    color: #1e40af;
+}
+
+.classification {
+    display: inline-block;
+    padding: 4px 9px;
+    border-radius: 5px;
+    background: #e8f2ff;
+    color: #1d4ed8;
+}
+
+.detail-button {
+    border: none;
+    border-radius: 5px;
+    padding: 7px 12px;
+    background: #2563eb;
+    color: white;
+}
+
+.detail-button:hover {
+    background: #1d4ed8;
+}
+
+.detail-table {
+    min-width: 600px;
+}
+
+.detail-table th,
+.detail-table td {
+    padding: 10px;
+}

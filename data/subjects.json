@@ -1,0 +1,22 @@
+[
+    {
+        "id": "MH01",
+        "name": "Lập trình Web"
+    },
+    {
+        "id": "MH02",
+        "name": "Cơ sở dữ liệu"
+    },
+    {
+        "id": "MH03",
+        "name": "Cấu trúc dữ liệu và giải thuật"
+    },
+    {
+        "id": "MH04",
+        "name": "Lập trình hướng đối tượng"
+    },
+    {
+        "id": "MH05",
+        "name": "Mạng máy tính"
+    }
+]

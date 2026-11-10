@@ -1,0 +1,182 @@
+[
+    {
+        "id": "SV001",
+        "name": "Nguyễn Minh Anh",
+        "class": "CNTT1-K18",
+        "email": "minhanh001@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV002",
+        "name": "Trần Hoàng Nam",
+        "class": "CNTT1-K18",
+        "email": "hoangnam002@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV003",
+        "name": "Lê Thu Hà",
+        "class": "CNTT1-K18",
+        "email": "thuha003@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV004",
+        "name": "Phạm Đức Anh",
+        "class": "CNTT1-K18",
+        "email": "ducanh004@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV005",
+        "name": "Hoàng Ngọc Mai",
+        "class": "CNTT1-K18",
+        "email": "ngocmai005@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV006",
+        "name": "Vũ Quang Huy",
+        "class": "CNTT1-K18",
+        "email": "quanghuy006@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV007",
+        "name": "Đặng Phương Linh",
+        "class": "CNTT1-K18",
+        "email": "phuonglinh007@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV008",
+        "name": "Bùi Thành Đạt",
+        "class": "CNTT1-K18",
+        "email": "thanhdat008@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV009",
+        "name": "Đỗ Khánh Vy",
+        "class": "CNTT1-K18",
+        "email": "khanhvy009@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV010",
+        "name": "Ngô Tuấn Kiệt",
+        "class": "CNTT1-K18",
+        "email": "tuankiet010@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV011",
+        "name": "Dương Hải Yến",
+        "class": "CNTT1-K18",
+        "email": "haiyen011@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV012",
+        "name": "Phan Minh Quân",
+        "class": "CNTT1-K18",
+        "email": "minhquan012@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV013",
+        "name": "Võ Thùy Dương",
+        "class": "CNTT1-K18",
+        "email": "thuyduong013@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV014",
+        "name": "Hồ Gia Bảo",
+        "class": "CNTT1-K18",
+        "email": "giabao014@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV015",
+        "name": "Đinh Ngọc Ánh",
+        "class": "CNTT1-K18",
+        "email": "ngocanh015@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV016",
+        "name": "Mai Quốc Bảo",
+        "class": "CNTT1-K18",
+        "email": "quocbao016@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV017",
+        "name": "Trịnh Hà My",
+        "class": "CNTT1-K18",
+        "email": "hamy017@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV018",
+        "name": "Lý Đức Minh",
+        "class": "CNTT1-K18",
+        "email": "ducminh018@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV019",
+        "name": "Cao Thanh Tâm",
+        "class": "CNTT1-K18",
+        "email": "thanhtam019@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV020",
+        "name": "Lương Nhật Long",
+        "class": "CNTT1-K18",
+        "email": "nhatlong020@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV021",
+        "name": "Nguyễn Bảo Trân",
+        "class": "CNTT1-K18",
+        "email": "baotran021@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV022",
+        "name": "Trần Gia Hân",
+        "class": "CNTT1-K18",
+        "email": "giahan022@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV023",
+        "name": "Lê Anh Tuấn",
+        "class": "CNTT1-K18",
+        "email": "anhtuan023@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV024",
+        "name": "Phạm Khánh Ngân",
+        "class": "CNTT1-K18",
+        "email": "khanhngan024@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV025",
+        "name": "Hoàng Đức Thịnh",
+        "class": "CNTT1-K18",
+        "email": "ducthinh025@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV026",
+        "name": "Vũ Hải Đăng",
+        "class": "CNTT1-K18",
+        "email": "haidang026@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV027",
+        "name": "Đặng Minh Châu",
+        "class": "CNTT1-K18",
+        "email": "minhchau027@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV028",
+        "name": "Bùi Khắc Duy",
+        "class": "CNTT1-K18",
+        "email": "khacduy028@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV029",
+        "name": "Đỗ Phương Thảo",
+        "class": "CNTT1-K18",
+        "email": "phuongthao029@pka-uni.edu.vn"
+    },
+    {
+        "id": "SV030",
+        "name": "Ngô Đức Phúc",
+        "class": "CNTT1-K18",
+        "email": "ducphuc030@pka-uni.edu.vn"
+    }
+]
